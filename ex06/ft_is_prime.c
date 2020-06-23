@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int ft_is_prime(int nb);
 
 int ft_is_prime(int nb) 
@@ -20,3 +18,4 @@ int ft_is_prime(int nb)
 	else 
 		return (0);
 }
+int ft_is_prime(int nb);
