@@ -18,4 +18,3 @@ int ft_is_prime(int nb)
 	else 
 		return (0);
 }
-int ft_is_prime(int nb);
