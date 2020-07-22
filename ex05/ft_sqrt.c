@@ -1,6 +1,4 @@
-int     ft_sqrt(int nb);
-
-int		ft_sqrt(int nb)
+int	ft_sqrt(int nb)
 {
     int counter = 0;
     while (counter < nb)
