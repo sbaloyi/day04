@@ -1,5 +1,3 @@
-int ft_fibonacci(int index);
-
 int ft_fibonacci(int index)
 {
 	if ( index == 0 )
@@ -7,6 +5,5 @@ int ft_fibonacci(int index)
    else if ( index == 1 )
      return (1);
    else
-     return ( ft_fibonacci(index - 1) + ft_fibonacci(index - 2) );
-   
+     return ( ft_fibonacci(index - 1) + ft_fibonacci(index - 2) );   
 }
